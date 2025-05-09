@@ -29,7 +29,4 @@ Bloggers is a full-stack blogging platform that allows users to create, edit, de
 - RESTful API design
 - PostgreSQL database with ORM via SQLAlchemy
 
----
-
-## 📁 Project Structure
 
