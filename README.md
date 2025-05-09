@@ -4,7 +4,7 @@
 Bloggers is a full-stack blogging platform that allows users to create, edit, delete, and view blog posts. It features a React.js frontend with Material UI for design, a Flask backend for handling API requests, and PostgreSQL for data persistence. JWT-based authentication ensures secure login and protected routes.
 
 ## Live Demo
-Coming soon... *(or add link if deployed)*
+Coming soon... 
 
 ## ⚙️ Tech Stack
 
