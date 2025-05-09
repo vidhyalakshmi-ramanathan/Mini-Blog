@@ -22,11 +22,12 @@ PostgreSQL
 
 ## Features
 
-User Registration & Login (JWT Auth)
-Create, Read, Update, Delete (CRUD) Posts
-Secure APIs with token-based access
-Responsive UI with Material UI
-Authentication-protected routes
-RESTful API design
-PostgreSQL database with ORM via SQLAlchemy
+- User Registration & Login (JWT Auth)
+- Create, Read, Update, Delete (CRUD) Posts
+- Secure APIs with token-based access
+- Responsive UI with Material UI
+- Authentication-protected routes
+- RESTful API design
+- PostgreSQL database with ORM via SQLAlchemy
+
 
